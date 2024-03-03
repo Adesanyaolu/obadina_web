@@ -16,7 +16,7 @@ function Navigation() {
                 <NavLink to="/about" className='mt-3 text-primaryTextDark'> About </NavLink>
                 <NavLink to="/research" className='mt-3 text-primaryTextDark'> Research </NavLink>
                 <NavLink to="/publications" className='my-3 text-primaryTextDark'> Publication </NavLink>
-                <DefaultButton className={'dark:bg-white w-full text-primaryGreen border-green-400 border-2 border-solid rounded-lg'} buttonText={'Contact'} />
+                <DefaultButton className={'dark:bg-white bg-white w-full text-primaryGreen border-green-400 border-2 border-solid rounded-lg'} buttonText={'Contact'} />
             </NavbarCollapse>
         </Navbar>
     );

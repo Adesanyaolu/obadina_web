@@ -34,7 +34,7 @@ function Footer() {
                     <a href="#">Cookies Settings</a>
                 </div>
 
-                <h6 className="text-white text-center text-base pt-6 md:pt-0 md:text-left ">2023. All right reserved.</h6>
+                <h6 className="text-white text-center text-base pt-6 md:pt-0 md:text-left ">2023. All right reserved. &#169;AdeSanyaOlu </h6>
             </div>
 
         </div>

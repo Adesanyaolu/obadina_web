@@ -22,7 +22,7 @@ function Homepage() {
                 </div>
                 <div className="left p-5 text-center md:p-5 xl:flex xl:flex-col xl:justify-start xl:text-left xl:w-6/12">
                     <h1 className='font-bold text-ag3 md:text-ag2 md:px-20 xl:px-0 xl:text-ag1'>Igniting minds to soar through <span className='text-primaryGreen'> academic </span> excellence</h1>
-                    <p className='text-base py-4 md:text-agmd xl:text-agmd'>Dr. Obadina  is a new renowned expert in  Food Safety and Biotechnology, Professor at the Federal University  of Agriculture, Abeokuta, Nigeria.</p>
+                    <p className='text-base py-4 md:text-agmd xl:text-agmd'>Dr. Obadina  is a renowned expert in  Food Safety and Biotechnology, Professor at the Federal University  of Agriculture, Abeokuta, Nigeria.</p>
                     <div className='flex justify-center xl:justify-start'>
                         <DefaultButton className={'dark:bg-primaryGreen bg-primaryGreen w-full px-20 text-agsm  text-white '} buttonText={'Get Started'} />
                     </div>
@@ -30,7 +30,7 @@ function Homepage() {
             </div>
 
             {/* Second homepage section - Philosophy */}
-            <div className='xl:flex flex-row items-center xl:py-10 xl:px-16 xl:justify-between '>
+            <div className='py-10 xl:flex flex-row items-center xl:py-10 xl:px-16 xl:justify-between '>
                 <div className="right p-5 flex items-center justify-center xl:w-2/4 xl:justify-start ">
                     <img src="/Image2.png" className='w-full xl:w-3/4 ' alt="" />
                 </div>
@@ -41,7 +41,7 @@ function Homepage() {
             </div>
 
             {/* Third homepage section - Work Experience */}
-            <div className='flex flex-col items-center justify-center  xl:my-10 xl:mx-16'>
+            <div className='flex flex-col items-center justify-center pb-10 xl:my-10 xl:mx-16'>
                 <h3 className='font-bold text-ag4 text-center md:text-ag3 xl:text-ag2 xl:py-10'> Work Experience </h3>
                 {/* Cards */}
                 <div className='xl:flex xl:flex-row xl:justify-between'>
@@ -106,7 +106,7 @@ function Homepage() {
             </div>
 
             {/* Fifth homepage section - Achievement section */}
-            <div className='xl:flex flex-row items-center bg-lightGreen xl:px-16 xl:justify-between '>
+            <div className='pb-10 xl:flex flex-row items-center bg-lightGreen xl:px-16 xl:justify-between '>
                 <div className="right p-5 xl:py-4 xl:w-2/5" >
                     <img src="/books.svg" className='w-full  md:px-8 xl:p-0  xl:w-160  xl:rounded-lg' alt="Books" />
                 </div>
@@ -139,7 +139,7 @@ function Homepage() {
             </div>
 
             {/* Sixth section - Collaboration */}
-            <div className='my-4 mx-8 md:pl-8 xl:flex xl:flex-row xl:px-24 xl:justify-between'>
+            <div className='pb-10 my-4 mx-8 md:pl-8 xl:flex xl:flex-row xl:px-24 xl:justify-between'>
                 <div className='xl:w-2/4'>
                     <div className='my-4'>
                         <h4 className='py-4 font-bold text-ag4 text-center md:text-left md:text-ag3 xl:text-ag2'>Collaborate with us <span className="text-primaryGreen" >today!</span></h4>
