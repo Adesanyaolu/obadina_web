@@ -26,7 +26,7 @@ function cvClick() {
 // About component
 function About() {
   return (
-    <div className="font-custom">
+    <div className="container">
       {/* Navigation Component */}
       <Navigation />
 

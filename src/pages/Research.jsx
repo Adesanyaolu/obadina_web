@@ -3,7 +3,7 @@ import Navigation from '../components/Navigation.jsx';
 
 function Research() {
     return (
-        <div>
+        <div className='container'>
             <Navigation />
 
             <div className="bg-cover bg-center bg-no-repeat bg-gray-700 bg-blend-multiply text-center py-40" style={{ backgroundImage: 'url(/research.jpg)', height: '350px' }}>

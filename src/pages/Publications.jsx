@@ -8,7 +8,7 @@ import Navigation from '../components/Navigation.jsx';
 
 function Publications() {
     return (
-        <div className="font-custom">
+        <div className="container">
             <Navigation />
 
             {/* Header Section */}

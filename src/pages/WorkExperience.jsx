@@ -8,7 +8,7 @@ import Navigation from '../components/Navigation.jsx';
 
 function WorkExperience() {
     return (
-        <div>
+        <div className='container'>
             <Navigation />
 
             <div className="bg-cover bg-center bg-no-repeat bg-gray-700 bg-blend-multiply text-center py-40" style={{ backgroundImage: 'url(/work.jpg)', height: '350px' }}>
