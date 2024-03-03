@@ -195,7 +195,7 @@ function Homepage() {
                         />
                     </div>
                     <div>
-                        <DefaultButton className={'dark:bg-primaryGreen text-agsm text-white w-1/2'} buttonText={'Submit'} />
+                        <DefaultButton className={'dark:bg-primaryGreen bg-primaryGreen text-agsm text-white w-1/2'} buttonText={'Submit'} />
                     </div>
                 </form>
             </div>
