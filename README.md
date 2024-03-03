@@ -22,5 +22,8 @@ Navigate to the project directory.
 Install dependencies using npm install.
 Start the development server with npm start.
 
+**Design**
+The project figma design can be found [here] (https://www.figma.com/file/usMpiCcqG0RMlqI9iiRL1s/Obadina?type=design&node-id=0-1&mode=design)
+
 **Deployment**
 The application is deployed using Netlify and is accessible [here](https://65e498197dacf19b9cf977e0--obadina-web.netlify.app/).
