@@ -22,9 +22,9 @@ function Homepage() {
                 </div>
                 <div className="left p-5 text-center md:p-5 xl:flex xl:flex-col xl:justify-start xl:text-left xl:w-6/12">
                     <h1 className='font-bold text-ag3 md:text-ag2 md:px-20 xl:px-0 xl:text-ag1'>Igniting minds to soar through <span className='text-primaryGreen'> academic </span> excellence</h1>
-                    <p className='text-base py-4 md:text-agmd xl:text-agmd'>Dr. Obadina  is a renowned expert in  Food Safety and Biotechnology, Professor at the Federal University  of Agriculture, Abeokuta, Nigeria.</p>
+                    <p className='text-base py-4 md:text-agmd xl:text-agmd'>Dr. Obadina  is a new renowned expert in  Food Safety and Biotechnology, Professor at the Federal University  of Agriculture, Abeokuta, Nigeria.</p>
                     <div className='flex justify-center xl:justify-start'>
-                        <DefaultButton className={'dark:bg-primaryGreen w-full px-20 text-agsm  text-white '} buttonText={'Get Started'} />
+                        <DefaultButton className={'dark:bg-primaryGreen bg-primaryGreen w-full px-20 text-agsm  text-white '} buttonText={'Get Started'} />
                     </div>
                 </div>
             </div>
