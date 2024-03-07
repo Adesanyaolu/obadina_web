@@ -4,13 +4,13 @@ import Navigation from '../components/Navigation.jsx';
 // Function to handle CV click event
 function cvClick() {
   // Display a confirmation dialogue box
-  const confirmed = window.confirm('Are you sure you want to proceed?');
+  const confirmed = window.confirm('Confirm CV Download?');
   // Check if the user clicked "OK"
   if (confirmed) {
     // Create a temporary anchor element
     const link = document.createElement('a');
-    link.href = '/obadina3.jpg'; // URL of the PDF document
-    link.download = 'obadina3.jpg'; // Name of the downloaded file
+    link.href = '/cv.pdf'; // URL of the PDF document
+    link.download = 'cv.pdf'; // Name of the downloaded file
     document.body.appendChild(link);
 
     // Trigger the click event on the anchor element to start the download
